@@ -29,4 +29,4 @@ Check out the [`starlight-theme-rose-pine` getting started guide](https://starli
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-theme-rose-pine/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-theme-rose-pine/blob/main/LICENSE) for more information.

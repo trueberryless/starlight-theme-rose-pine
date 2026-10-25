@@ -5,11 +5,11 @@
   "description": "Documentation for the Starlight Rosé Pine theme.",
   "homepage": "https://starlight-theme-rose-pine.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-theme-rose-pine/issues"
+    "url": "https://github.com/trueberryless/starlight-theme-rose-pine/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-theme-rose-pine.git",
+    "url": "https://github.com/trueberryless/starlight-theme-rose-pine.git",
     "directory": "docs"
   },
   "license": "MIT",
