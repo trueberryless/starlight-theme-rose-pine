@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "description": "Starlight theme to bring the soho vibes of the Rosé Pine palette to your documentation.",
-  "homepage": "https://github.com/trueberryless-org/starlight-theme-rose-pine",
+  "homepage": "https://github.com/trueberryless/starlight-theme-rose-pine",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-theme-rose-pine/issues"
+    "url": "https://github.com/trueberryless/starlight-theme-rose-pine/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-theme-rose-pine.git"
+    "url": "https://github.com/trueberryless/starlight-theme-rose-pine.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
