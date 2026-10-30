@@ -20,7 +20,7 @@ export default defineConfig({
       favicon: "/favicon.png",
       editLink: {
         baseUrl:
-          "https://github.com/trueberryless-org/starlight-theme-rose-pine/edit/main/docs/",
+          "https://github.com/trueberryless/starlight-theme-rose-pine/edit/main/docs/",
       },
       head: [
         {
@@ -63,7 +63,7 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/trueberryless-org/starlight-theme-rose-pine",
+          href: "https://github.com/trueberryless/starlight-theme-rose-pine",
         },
       ],
       title: "Starlight Rosé Pine",
