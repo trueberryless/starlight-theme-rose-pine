@@ -1,5 +1,11 @@
 # starlight-theme-rose-pine
 
+## 0.3.1
+
+### Patch Changes
+
+- [#63](https://github.com/trueberryless/starlight-theme-rose-pine/pull/63) [`35927eb`](https://github.com/trueberryless/starlight-theme-rose-pine/commit/35927ebcc2ccef069497239e5702c13948d65502) Thanks [@trueberryless-bot](https://github.com/trueberryless-bot)! - Updates the repository links after the move from the `trueberryless-org` GitHub organization to the `trueberryless` account.
+
 ## 0.3.0
 
 ### Minor Changes
