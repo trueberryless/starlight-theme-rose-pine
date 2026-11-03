@@ -15,15 +15,15 @@ Check out the [`starlight-theme-rose-pine` getting started guide](https://starli
 
 ### Rosé Pine
 
-<img width="256" alt="Rosé Pine with Starlight" src="https://raw.githubusercontent.com/trueberryless-org/starlight-theme-rose-pine/main/assets/main.png" />
+<img width="256" alt="Rosé Pine with Starlight" src="https://raw.githubusercontent.com/trueberryless/starlight-theme-rose-pine/main/assets/main.png" />
 
 ### Rosé Pine Moon
 
-<img width="256" alt="Rosé Pine Moon with Starlight" src="https://raw.githubusercontent.com/trueberryless-org/starlight-theme-rose-pine/main/assets/moon.png" />
+<img width="256" alt="Rosé Pine Moon with Starlight" src="https://raw.githubusercontent.com/trueberryless/starlight-theme-rose-pine/main/assets/moon.png" />
 
 ### Rosé Pine Dawn
 
-<img width="256" alt="Rosé Pine Dawn with Starlight" src="https://raw.githubusercontent.com/trueberryless-org/starlight-theme-rose-pine/main/assets/dawn.png" />
+<img width="256" alt="Rosé Pine Dawn with Starlight" src="https://raw.githubusercontent.com/trueberryless/starlight-theme-rose-pine/main/assets/dawn.png" />
 
 ## License
 
